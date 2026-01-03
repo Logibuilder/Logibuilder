@@ -1,7 +1,7 @@
 # 👋 Bonjour! Je m’appelle Assane KANE
 ### Étudiant en Master 1 Informatique – Génie Logiciel à l’Université de Lille
 
-Curieux, proactif et passionné par le développement logiciel, je suis à la recherche d’un **stage en développement logiciel à partir d’avril 2025**.
+Curieux, proactif et passionné par le développement logiciel, je suis à la recherche d’un **stage en développement logiciel à partir d’avril 2026**.
 
 🔗 Vous pouvez me retrouver sur [LinkedIn](https://www.linkedin.com/in/assane-kane-10bb19267/) ou consulter mon [Portfolio](https://logibuilder.github.io/assane.kane/) pour plus d’informations.
 
@@ -34,7 +34,7 @@ Curieux, proactif et passionné par le développement logiciel, je suis à la re
 ## 🎓 Tutorat
 
 ### 👨‍🏫 Tutoring en Informatique – Université de Lille
-*📅 Depuis 09/2024*
+*📅 Depuis 09/2025*
 * Accompagnement d’étudiants de Licence 1 en Python, algorithmes et développement web.
 * Préparation des séances de tutorat, suivi pédagogique et soutien à la réussite académique.
 
@@ -55,10 +55,11 @@ Jeu de simulation de bowling développé en Java (interface console).
 
 ---
 
+
 ## 🎓 Formation
 
-* **Master 1 Informatique – Génie Logiciel** | Université de Lille 1 *(2024 – présent)*
-* **Licence MIASHS (Mathématiques & Informatique)** | Université Toulouse 2 – Jean Jaurès *(2021 – 2024)*
+* **Master 1 Informatique – Génie Logiciel** | Université de Lille 1 *(2025 – présent)*
+* **Licence MIASHS (Mathématiques & Informatique)** | Université Toulouse 2 – Jean Jaurès *(2022 – 2025)*
 
 ---
 
@@ -85,11 +86,6 @@ Jeu de simulation de bowling développé en Java (interface console).
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Outils & Méthodes**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Scrum](https://img.shields.io/badge/Agile_Scrum-blue?style=for-the-badge)
 
 ---
 
