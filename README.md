@@ -1,7 +1,7 @@
 # 👋 Bonjour! Je m’appelle Assane KANE
 ### Étudiant en Master 1 Informatique – Génie Logiciel à l’Université de Lille
 
-Curieux, proactif et passionné par le développement logiciel, je suis à la recherche d’un **stage en développement logiciel à partir d’avril 2026**.
+Curieux, proactif et passionné par le développement logiciel, je suis à la recherche d’un **stage en développement logiciel à partir d’avril 2026 et une alterance en septembre 2026**.
 
 🔗 Vous pouvez me retrouver sur [LinkedIn](https://www.linkedin.com/in/assane-kane-10bb19267/) ou consulter mon [Portfolio](https://logibuilder.github.io/assane.kane/) pour plus d’informations.
 
@@ -9,7 +9,7 @@ Curieux, proactif et passionné par le développement logiciel, je suis à la re
 
 ## 💼 Expériences Professionnelles & Projets Académiques
 
-### 🔹 Stage Développement Web – IRIT, Université Toulouse 2
+### 🔹 Stage Développement Web –  [IRIT(Institut de recherche en Informatique de Toulouse)](https://www.irit.fr/), Université Toulouse 2
 *📅 05/2025 - 08/2025*
 * Prétraitement de données RDF et génération d’embeddings en Python.
 * Exploration du web sémantique et rédaction de documentation technique.
