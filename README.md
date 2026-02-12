@@ -70,7 +70,7 @@ Cursus pluridisciplinaire alliant informatique fondamentale et mathématiques ap
 **Stack technique :** Java 21, Sockets TCP/IP, Gson, Maven, UML
   
   
-### 🔹 League of Stones – Jeu de cartes stratégique en ligne (Next.js) [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)🔗](URL)
+### 🔹 League of Stones – Jeu de cartes stratégique en ligne (Next.js) [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)🔗](https://github.com/Logibuilder/LeaguesOfStones)
 *📅 03/2025 – 04/2025*
 * Développement d'une application de jeu de cartes complexe avec **Next.js**, incluant le rendu côté serveur (SSR) et un routage dynamique.
 * Architecture modulaire composée de plus de **40 composants réutilisables** stylisés avec **CSS Modules**.
