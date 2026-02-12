@@ -35,7 +35,7 @@ Cursus pluridisciplinaire alliant informatique fondamentale et mathématiques ap
   - Veille scientifique : Participation aux conférences sur les thématiques du traitement de données massives.
 
 
-### 🔹 Tisséo Mobile – Application Android de transport  [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)🔗](URL)
+### 🔹 Tisséo Mobile – Application Android de transport  [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)🔗](https://github.com/Logibuilder/Tisseo)
 *📅 11/2025 - 01/2026 | Université de Lille
 * Conception et développement d'une application Android pour le réseau de transport Tisséo (Toulouse Métropole)
 * Mise en œuvre d'une **Clean Architecture** avec le pattern **MVVM**
@@ -45,7 +45,7 @@ Cursus pluridisciplinaire alliant informatique fondamentale et mathématiques ap
 **Stack technique :** Kotlin, Jetpack Compose (Material 3), Retrofit, Room, Moshi
 
   
-### 🔹 Serveur FTP conforme RFC 959 – Projet systèmes répartis [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)🔗](URL)
+### 🔹 Serveur FTP conforme RFC 959 – Projet systèmes répartis [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)🔗](https://github.com/Logibuilder/ftp_server)
 *📅 01/2026 – 02/2026* | Université de Lille
 * Conception et implémentation d’un serveur FTP multi-threadé en Java conforme à la norme **RFC 959**.
 * Gestion des connexions concurrentes via **ServerSocket** et pool de threads (**ExecutorService**).
@@ -58,7 +58,7 @@ Cursus pluridisciplinaire alliant informatique fondamentale et mathématiques ap
 **Stack technique :** Java 21, Socket, Java NIO, Maven, JUnit 5, Mockito
 
 
-### 🔹 Client FTP – conforme RFC 959 – Projet systèmes répartis [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)🔗](URL)
+### 🔹 Client FTP – conforme RFC 959 – Projet systèmes répartis [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)🔗](https://github.com/Logibuilder/ftpclient)
 *📅 01/2025 – 03/2025* | Université de Lille
 * Développement d'un client FTP en ligne de commande avec **exploration récursive** d'arborescence et export de structure.
 * Implémentation d'algorithmes de parcours : **DFS** (profondeur) et **BFS** (largeur avec Queue).
@@ -98,14 +98,14 @@ Cursus pluridisciplinaire alliant informatique fondamentale et mathématiques ap
 ---
 ## 📁 Projets Personnels
 
-### 📌 TaskBoard [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)🔗](URL)
+### 📌 TaskBoard [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)🔗](https://github.com/Logibuilder/taskboard/)
 *📅 05/2025 – présent*
 Application web de gestion de tâches inspirée de Trello.
 * Tâches organisées en colonnes avec glisser-déposer.
 * Authentification multi-rôles (admin/utilisateur) et suivi par statut.
 * **Technologies :** React.js, Spring Boot, MariaDB, Bootstrap 5.
 
-### 🎳 Bowling Game [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)🔗](URL)
+### 🎳 Bowling Game [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)🔗](https://github.com/Logibuilder/BowlingGame)
 *📅 11/2024 – 12/2024*
 Jeu de simulation de bowling développé en Java (interface console).
 * La logique interne gère les scores et les règles du bowling pour offrir une expérience interactive dans le terminal.
