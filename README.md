@@ -7,6 +7,22 @@ Curieux, proactif et passionné par le développement logiciel, je suis à la re
 
 ---
 
+## 🎓 Formation Académique
+
+### **Master 1 Informatique – Génie Logiciel** | Université de Lille
+*📅 2025 – présent*
+Formation d'excellence en ingénierie logicielle, adossée aux laboratoires de recherche **CRIStAL** et **Inria Lille**.
+* **Spécialisation :** Conception logicielle avancée, méthodes Agiles, systèmes répartis, DevOps.
+* **Compétences clés :** Maîtrise du cycle de vie logiciel, qualité logicielle, architecture et sécurité.
+* **Innovation (Module RIC) :** Participation à des séminaires de recherche et projets innovants en lien avec les laboratoires.
+
+### **Licence MIASHS (Mathématiques & Informatique)** | Université Toulouse 2 – Jean Jaurès
+*📅 2022 – 2025*
+Cursus pluridisciplinaire alliant informatique fondamentale et mathématiques appliquées.
+* **Socle technique :** Algorithmique complexe, structures de données, bases de données (SQL) et architecture système.
+* **Approche projet :** Réalisation de projets concrets intégrant modélisation, développement web et gestion de données.
+---
+
 ## 💼 Expériences Professionnelles & Projets Académiques
 
 ### 🔹 Stage Développement Web –  [IRIT](https://www.irit.fr/), Université Toulouse 2
@@ -96,13 +112,6 @@ Jeu de simulation de bowling développé en Java (interface console).
 
 ---
 
-
-## 🎓 Formation
-
-* **Master 1 Informatique – Génie Logiciel** | Université de Lille 1 *(2025 – présent)*
-* **Licence MIASHS (Mathématiques & Informatique)** | Université Toulouse 2 – Jean Jaurès *(2022 – 2025)*
-
----
 
 ## 🛠️ Compétences Techniques
 
