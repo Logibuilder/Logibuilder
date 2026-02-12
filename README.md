@@ -9,11 +9,14 @@ Curieux, proactif et passionné par le développement logiciel, je suis à la re
 
 ## 💼 Expériences Professionnelles & Projets Académiques
 
-### 🔹 Stage Développement Web –  [IRIT(Institut de recherche en Informatique de Toulouse)](https://www.irit.fr/), Université Toulouse 2
+### 🔹 Stage Développement Web –  [IRIT](https://www.irit.fr/), Université Toulouse 2
 *📅 05/2025 - 08/2025*
 * Prétraitement de données RDF et génération d’embeddings en Python.
 * Exploration du web sémantique et rédaction de documentation technique.
-
+* Participation au Symposium  : Veille technologique sur les problématiques de traitement de données massives
+  - Logistique & Accueil : Gestion des flux de participants et accueil des chercheurs.
+  - Support opérationnel : Assistance technique lors des sessions de présentation de travaux de recherche.
+  - Veille scientifique : Participation aux conférences sur les thématiques du traitement de données massives.
 ### 🔹 League of Stones – Projet universitaire
 *📅 03/2025 - 04/2025*
 * Développement du frontend en React.js : interfaces de jeu, gestion des decks et affichage en temps réel des parties.
