@@ -29,8 +29,8 @@ Curieux, proactif et passionné par le développement logiciel, je suis à la re
 **Stack technique :** Kotlin, Jetpack Compose (Material 3), Retrofit, Room, Moshi
 
   
-### 🔹 Serveur FTP conforme RFC 959 – Projet système & réseau (Java)
-*📅 01/2026 – 02/2026*
+### 🔹 Serveur FTP conforme RFC 959 – Projet système & réseau
+*📅 01/2026 – 02/2026* | Université de Lille
 * Conception et implémentation d’un serveur FTP multi-threadé en Java conforme à la norme **RFC 959**.
 * Gestion des connexions concurrentes via **ServerSocket** et pool de threads (**ExecutorService**).
 * Implémentation du **mode passif (PASV)** avec une séparation stricte entre les canaux de contrôle et de données.
@@ -38,8 +38,21 @@ Curieux, proactif et passionné par le développement logiciel, je suis à la re
 * Architecture extensible basée sur le **Command Pattern** pour le traitement des requêtes.
 * Mise en place d'une suite de tests unitaires et d'intégration avec **JUnit 5**, **Mockito**.
 * **Fonctionnalités clés :** USER, PASS, PWD, CWD, CDUP, LIST, NLST, RETR, STOR, DELE, MKD, RMD, RNFR/RNTO, SIZE, MDTM.
+*  **Qualité :** Tests unitaires avec JUnit 5 et Mockito.
 **Stack technique :** Java 21, Socket, Java NIO, Maven, JUnit 5, Mockito
 
+
+### 🔹 Client FTP – Application d’exploration réseau (Java)
+*📅 01/2025 – 03/2025* | Université de Lille
+* Développement d'un client FTP en ligne de commande avec **exploration récursive** d'arborescence et export de structure.
+* Implémentation d'algorithmes de parcours : **DFS** (profondeur) et **BFS** (largeur avec Queue).
+* Architecture basée sur les design patterns **Façade** (abstraction réseau) et **Composite** (hiérarchie de fichiers).
+* Mise en place d'un mécanisme de **tolérance aux pannes** : reconnexion automatique et restauration d'état (3 tentatives).
+* Intégration de l'export JSON via **Gson** avec construction récursive de l'arbre.
+* **Fonctionnalités :** Mode passif (PASV) avec parsing regex, filtrage de dossiers, profondeur d'exploration paramétrable.
+* **Qualité :** Tests unitaires avec JUnit 5 et Mockito.
+**Stack technique :** Java 21, Sockets TCP/IP, Gson, Maven, UML
+  
   
 ### 🔹 League of Stones – Projet universitaire
 *📅 03/2025 - 04/2025*
