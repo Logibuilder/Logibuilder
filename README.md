@@ -13,10 +13,21 @@ Curieux, proactif et passionné par le développement logiciel, je suis à la re
 *📅 05/2025 - 08/2025*
 * Prétraitement de données RDF et génération d’embeddings en Python.
 * Exploration du web sémantique et rédaction de documentation technique.
-* Participation au Symposium  : Veille technologique sur les problématiques de traitement de données massives
+* Participation à un symposium BigData Symposium   : Veille technologique sur les problématiques de traitement de données massives
   - Logistique & Accueil : Gestion des flux de participants et accueil des chercheurs.
   - Support opérationnel : Assistance technique lors des sessions de présentation de travaux de recherche.
   - Veille scientifique : Participation aux conférences sur les thématiques du traitement de données massives.
+
+
+### Tisséo Mobile – Application Android de transport
+*📅 11/2025 - 01/2026 | Université de Lille
+* Conception et développement d'une application Android pour le réseau de transport Tisséo (Toulouse Métropole)
+* Mise en œuvre d'une **Clean Architecture** avec le pattern **MVVM**
+* Gestion d'états réactifs avec **Kotlin Coroutines** et **Flow**
+* Fonctionnalités : recherche avec autocomplétion, cartographie (OSMDroid), favoris hors ligne
+* Système d'exportation de données (Favoris) en format JSON
+**Stack technique :** Kotlin, Jetpack Compose (Material 3), Retrofit, Room, Moshi
+
 ### 🔹 League of Stones – Projet universitaire
 *📅 03/2025 - 04/2025*
 * Développement du frontend en React.js : interfaces de jeu, gestion des decks et affichage en temps réel des parties.
