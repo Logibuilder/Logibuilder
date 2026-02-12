@@ -35,7 +35,7 @@ Cursus pluridisciplinaire alliant informatique fondamentale et mathématiques ap
   - Veille scientifique : Participation aux conférences sur les thématiques du traitement de données massives.
 
 
-### 🔹 Tisséo Mobile – Application Android de transport  [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](URL)
+### 🔹 Tisséo Mobile – Application Android de transport  [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)🔗](URL)🔗
 *📅 11/2025 - 01/2026 | Université de Lille
 * Conception et développement d'une application Android pour le réseau de transport Tisséo (Toulouse Métropole)
 * Mise en œuvre d'une **Clean Architecture** avec le pattern **MVVM**
