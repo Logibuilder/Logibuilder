@@ -12,6 +12,9 @@
     <a href="mailto:kaneassane81@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+      <a href="https://drive.google.com/file/d/1d2eev6XXp_epj4a-yBdBJMFNIie9DCyx/view?usp=sharing">
+    <img src="https://img.shields.io/badge/📄_CV_PDF-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+  </a>
   </p>
 
   <p style="border: 2px solid #2980b9; padding: 15px; border-radius: 10px; background-color: #f0f8ff; color: #2c3e50;">
