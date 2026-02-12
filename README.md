@@ -54,17 +54,16 @@ Curieux, proactif et passionné par le développement logiciel, je suis à la re
 **Stack technique :** Java 21, Sockets TCP/IP, Gson, Maven, UML
   
   
-### 🔹 League of Stones – Projet universitaire
-*📅 03/2025 - 04/2025*
-* Développement du frontend en React.js : interfaces de jeu, gestion des decks et affichage en temps réel des parties.
-* **Stack technique :** React.js, Node.js (Express) et MongoDB.
-
-
-### 🔹 Application de Gestion d’Emplois du Temps
-*📅 01/2025 - 03/2025*
-* Création d’une application web pour générer automatiquement des emplois du temps selon les disponibilités des enseignants et les contraintes de salles.
-* Mise en place d’interfaces pour la gestion des comptes enseignants et d’un tableau de bord administrateur.
-
+### 🔹 League of Stones – Jeu de cartes stratégique en ligne (Next.js)
+*📅 03/2025 – 04/2025*
+* Développement d'une application de jeu de cartes complexe avec **Next.js**, incluant le rendu côté serveur (SSR) et un routage dynamique.
+* Architecture modulaire composée de plus de **40 composants réutilisables** stylisés avec **CSS Modules**.
+* Implémentation d'un système de **Gameplay complet** : gestion du plateau (board), de la main, des phases de combat et des points de vie.
+* Mise en place d'un **Matchmaking** performant utilisant le polling serveur (setInterval) pour la synchronisation des joueurs.
+* Gestion d'états complexes via les **React Hooks** et persistance des sessions utilisateur avec **SessionStorage**.
+* Sécurisation de l'application par **Authentification JWT** et intégration d'une gestion centralisée des erreurs API.
+* **Fonctionnalités :** Deck Building avec validation, synchronisation temps réel, et interface entièrement responsive avec animations fluides.
+**Stack technique :** Next.js, React, JavaScript, CSS Modules, JWT, MongoDB
 
 ### 🔹 Chef de projet académique – Université Toulouse 2
 *📅 01/2025 - 03/2025*
