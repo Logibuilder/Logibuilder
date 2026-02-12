@@ -151,6 +151,3 @@ UML, Clean Architecture, MVVM, Design Patterns (Command, Façade, Composite), Ec
 * La logique interne gère les scores et les règles du bowling pour offrir une expérience interactive dans le terminal.
 
 ---
-<div align="center">
-  <em>Centres d’intérêt : Développement web et mobile, Génie logiciel, Pratiques agiles, Architecture logicielle.</em>
-</div>
