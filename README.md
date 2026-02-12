@@ -19,7 +19,7 @@ Curieux, proactif et passionné par le développement logiciel, je suis à la re
   - Veille scientifique : Participation aux conférences sur les thématiques du traitement de données massives.
 
 
-### Tisséo Mobile – Application Android de transport
+### 🔹 Tisséo Mobile – Application Android de transport
 *📅 11/2025 - 01/2026 | Université de Lille
 * Conception et développement d'une application Android pour le réseau de transport Tisséo (Toulouse Métropole)
 * Mise en œuvre d'une **Clean Architecture** avec le pattern **MVVM**
@@ -28,15 +28,30 @@ Curieux, proactif et passionné par le développement logiciel, je suis à la re
 * Système d'exportation de données (Favoris) en format JSON
 **Stack technique :** Kotlin, Jetpack Compose (Material 3), Retrofit, Room, Moshi
 
+  
+### 🔹 Serveur FTP conforme RFC 959 – Projet système & réseau (Java)
+*📅 01/2026 – 02/2026*
+* Conception et implémentation d’un serveur FTP multi-threadé en Java conforme à la norme **RFC 959**.
+* Gestion des connexions concurrentes via **ServerSocket** et pool de threads (**ExecutorService**).
+* Implémentation du **mode passif (PASV)** avec une séparation stricte entre les canaux de contrôle et de données.
+* Sécurisation des accès par **Root Jail** (prévention des attaques par traversée de répertoires).
+* Architecture extensible basée sur le **Command Pattern** pour le traitement des requêtes.
+* Mise en place d'une suite de tests unitaires et d'intégration avec **JUnit 5**, **Mockito**.
+* **Fonctionnalités clés :** USER, PASS, PWD, CWD, CDUP, LIST, NLST, RETR, STOR, DELE, MKD, RMD, RNFR/RNTO, SIZE, MDTM.
+**Stack technique :** Java 21, Socket, Java NIO, Maven, JUnit 5, Mockito
+
+  
 ### 🔹 League of Stones – Projet universitaire
 *📅 03/2025 - 04/2025*
 * Développement du frontend en React.js : interfaces de jeu, gestion des decks et affichage en temps réel des parties.
 * **Stack technique :** React.js, Node.js (Express) et MongoDB.
 
+
 ### 🔹 Application de Gestion d’Emplois du Temps
 *📅 01/2025 - 03/2025*
 * Création d’une application web pour générer automatiquement des emplois du temps selon les disponibilités des enseignants et les contraintes de salles.
 * Mise en place d’interfaces pour la gestion des comptes enseignants et d’un tableau de bord administrateur.
+
 
 ### 🔹 Chef de projet académique – Université Toulouse 2
 *📅 01/2025 - 03/2025*
