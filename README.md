@@ -19,7 +19,7 @@
 
   <p style="border: 2px solid #2980b9; padding: 15px; border-radius: 10px; background-color: #f0f8ff; color: #2c3e50;">
     <strong>🚀 RECHERCHE D'OPPORTUNITÉS</strong><br/>
-    Curieux, proactif et passionné par le développement logiciel, je suis à la recherche d’un <strong>stage en développement logiciel à partir d’avril 2026</strong> et une <strong>alternance en septembre 2026</strong>.
+    Curieux, proactif et passionné par le développement logiciel, je suis à la recherche d’un <strong>stage en développement logiciel à partir de join 2026</strong> et une <strong>alternance en septembre 2026</strong>.
   </p>
 </div>
 
